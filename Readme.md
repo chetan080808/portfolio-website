@@ -8,7 +8,7 @@
   
   **A modern, responsive portfolio showcasing Cloud & DevOps expertise**
   
-  [🚀 Live Demo](https://chetan-portfolio-website-2.vercel.app) • [📧 Contact](mailto:chetannamne2609@gmail.com) • [💼 LinkedIn](https://www.linkedin.com/in/chetan-namane/)
+  [🚀 Live Demo](https://chetan-portfolio-website1.vercel.app) • [📧 Contact](mailto:chetannamne2609@gmail.com) • [💼 LinkedIn](https://www.linkedin.com/in/chetan-namane/)
 
 </div>
 
@@ -209,7 +209,7 @@ While this is a personal portfolio, suggestions and feedback are welcome. Fork t
 
 🐙 GitHub: https://github.com/chetan080808
 
-🌐 Portfolio: https://chetan-portfolio-website-2.vercel.app
+🌐 Portfolio: https://chetan-portfolio-website1.vercel.app
 
 📱 Phone: +91 8828438843
 
